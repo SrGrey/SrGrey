@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey
 - 👀 I’m interested in backend tecnologies. couriosed with WEB and AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently work with Python y AWS
 - 💞️ I’m looking to collaborate on any project related with my interests
 - 📫 How to reach me ... you can find me in LinkedIn: linkedin.com/in/Avargin
 
